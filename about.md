@@ -3,21 +3,47 @@ layout: about
 title: About
 ---
 
-## Welcome to CODEWEB
+## NNAMDI GERALDINE NGOZI
 
-### why
-There is an increasing need for inclusion of women in tech. Most women do not know where  or how to start a tech career. At CODEWEB  we ease these burden.
+### PROFILE
+A highly self motivated person and problem solver, who would like to join a dynamic team of like-minded developers. Eager to build a tech career, with keen interest in web development and mobile application.
  
-### How
-We build online communities that offer information, training, guidance and supoort to members on how to build a successful tech career.
+### KEY COMPETENCE
+Resousefulness
+Good team player
+Excellent interpersonal relationship
+Good communication skill
+Analytical mind
+Willingness to expand horizon
+Ability to deliver promptly and effectively
 
-### what
-we carry out a pre membership assessment to acertain a new members needs and abilities. we also help our members to enroll in tech programs and offer support via Q and A, chat etc.
+
+### EXPERIENCE
+Tech Creek - Front End web developer
+Key responsibility - part of a team that built an e-commerce website
+
+### TECHNICAL SKILL
+HTML
+CSS
+JAVASCRIPT
+REACT
+
+### EDUCATION
+B.Sc Microbiology
+
+### CERTIFICATIONS
+Responsive Web Design certificate (Freecodecamp)
+Javascript Algorithms and Data Structures Certificate(Freecodecamp)
+
+
+
 
 ### contact
-
-Interested? check out our website [website](https://nnamdingozi.github.io) . Follow us on linkedin [LinkedIn](https://www.linkedin.com/in/
-geraldine-nnamdi-b58a25220
+visit:
+ website [website](https://nnamdingozi.github.io) 
+ . linkedin [LinkedIn](https://www.linkedin.com/in/
+geraldine-nnamdi-b58a25220)
+ . [Github](https://github.com/Nnamdingozi)
 
 
 
