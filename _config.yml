@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: CODEWEB
+title: MY RESUME
 email: ngozika1105@gmail.com
 author: NGOZI
 
@@ -40,11 +40,10 @@ author: NGOZI
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
+copyright: "Unpublished Work (cleft) 2023-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Our community offer support for women who are interested in tech, but have no idea where to start.
-  We provide information and guidelines on aspects of tech one can pursue and how to get started in any choosen area.
+  This resume covers my personal data, academic qualifications, job experiences and training. It also contains my goals and aspirations as a Front End Web Developer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "" # the favicon for your site
