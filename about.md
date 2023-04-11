@@ -12,7 +12,7 @@ There is an increasing need for inclusion of women in tech. Most women do not kn
 We build online communities that offer information, training, guidance and supoort to members on how to build a successful tech career.
 
 ### what
-we carry out a pre memmbership assessment to acertain a new members needs and abilities. we also help our members to enroll in tech programs and offer support via Q and A, chat etc.
+we carry out a pre membership assessment to acertain a new members needs and abilities. we also help our members to enroll in tech programs and offer support via Q and A, chat etc.
 
 ### contact
 
