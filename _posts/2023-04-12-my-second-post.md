@@ -11,4 +11,4 @@ tags: [Javascript, intro, certificate]
 This post is meant to summarize some of the key concepts I have learned in the course *Javascript Algorithm and Data structure*
 
 
-![freecodecamp certification](/assets/images/banners/datacamp_certificate_dummy.jpg)
+![freecodecamp certification](/assets/images/banners/javascript certificate.jpg)
